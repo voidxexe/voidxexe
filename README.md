@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm voidxexe</h1>
 <h3 align="center">🔒 Cybersecurity Engineering Student | Python & Linux Enthusiast</h3>
 
@@ -28,17 +27,17 @@
 
 ### 🛠️ Tech Stack & Tools
 
-<p align="left">
+<p align="center">
   <!-- Languages -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <br>
+  
   <!-- Operating Systems & Environments -->
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux"/>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
-  <br>
+  
   <!-- Security & Tools -->
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
@@ -50,11 +49,24 @@
 
 ### 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=voidxexe&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="100%" alt="Voidx's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=voidxexe&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=voidxexe&layout=compact&theme=tokyonight&hide_border=true" width="100%" alt="Top Languages" />
+</p>
+
+---
 
 ### ⚡ Animated Banner
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=120&section=header&text=Defending%20the%20Network%20&%20Learning%20Continuously&fontSize=18&fontColor=ffffff&animation=fadeIn" alt="Animated Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=120&section=header&text=Defending%20the%20Network%20&%20Learning%20Continuously&fontSize=18&fontColor=ffffff&animation=fadeIn" width="100%" alt="Animated Banner" />
 </p>
 
 ---
