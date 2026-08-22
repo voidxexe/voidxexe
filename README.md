@@ -1,56 +1,64 @@
-<!-- ========================================================= -->
-<!--                    VOIDX GITHUB PROFILE                   -->
-<!-- ========================================================= -->
 
-<div align="center">
+<h1 align="center">Hi 👋, I'm voidxexe</h1>
+<h3 align="center">🔒 Cybersecurity Engineering Student | Python & Linux Enthusiast</h3>
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=VOIDX&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20%7C%20Python%20%7C%20Linux%20%7C%20Building%20Things&descAlignY=58&descSize=18"/>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=500&lines=Cybersecurity+Engineering+Student;Python+%26+Linux+Devotee;Building+Secure+Systems+%26+Tools" alt="Typing SVG" />
+</p>
 
-<br>
-
-<!-- Typing Animation -->
-<a href="https://github.com/voidxexe">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=100&lines=Cybersecurity+Engineering+Student;Python+%7C+Linux+%7C+Cybersecurity;Building+Projects+%26+Breaking+Things;Learning+Something+New+Every+Day;Security+is+not+a+feature.+It's+a+mindset." alt="Typing SVG"/>
-</a>
-
-<br>
-
-<!-- Profile Views / Followers -->
-<img src="https://komarev.com/ghpvc/?username=voidxexe&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-&nbsp;
-<img src="https://img.shields.io/github/followers/voidxexe?label=FOLLOWERS&style=for-the-badge&color=181717&logo=github" alt="Followers"/>
-&nbsp;
-<img src="https://img.shields.io/github/stars/voidxexe?label=STARS&style=for-the-badge&color=yellow&logo=github" alt="Stars"/>
-
-</div>
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://github.com/voidxexe" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+</p>
 
 ---
 
-# 👋 Hello, I'm Voidx
+### 💻 About Me
 
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                         VOIDX.EXE                            ║
-╠══════════════════════════════════════════════════════════════╣
-║  🧠 Learning        Cybersecurity Engineering                ║
-║  🐍 Primary Tool    Python                                   ║
-║  🐧 Environment     Linux                                    ║
-║  🔐 Focus           Cybersecurity                            ║
-║  🛠️ Building        Projects & Security Tools                ║
-║  🚀 Mission         Learn → Build → Break → Fix → Repeat     ║
-╚══════════════════════════════════════════════════════════════╝
-<!--
-**voidxexe/voidxexe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently studying **Cybersecurity Engineering**
+- 🔭 Passionate about penetration testing, system hardening, and secure coding
+- ⚡ Fun fact: I love automating workflows using Python and shell scripting on Linux
+- 🎯 Focus areas: Vulnerability Assessment, Scripting, and System Defense
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+
+<p align="left">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <br>
+  <!-- Operating Systems & Environments -->
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
+  <br>
+  <!-- Security & Tools -->
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+
+### ⚡ Animated Banner
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=120&section=header&text=Defending%20the%20Network%20&%20Learning%20Continuously&fontSize=18&fontColor=ffffff&animation=fadeIn" alt="Animated Banner" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=voidxexe&color=00ff66&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
