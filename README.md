@@ -47,22 +47,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=voidxexe&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="100%" alt="Voidx's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=voidxexe&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=voidxexe&layout=compact&theme=tokyonight&hide_border=true" width="100%" alt="Top Languages" />
-</p>
-
----
-
 ### ⚡ Animated Banner
 
 <p align="center">
