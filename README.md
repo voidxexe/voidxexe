@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm voidxexe</h1>
+<h1 align="center">Hi 👋, I'm voidx.sh</h1>
 <h3 align="center">🔒 Cybersecurity Engineering Student | Python & Linux Enthusiast</h3>
 
 <p align="center">
